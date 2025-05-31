@@ -20,3 +20,4 @@ add_to_startup.bat
 - Support whole PDF docs link extraction
 - Improve GUI workflow
 - Fixing a bug where choosing a save location is forcing the user to select a text file instead of a folder
+- Supporting more doc formats
