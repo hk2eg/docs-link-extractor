@@ -14,17 +14,18 @@ When launched normally, it opens a Tkinter GUI. When launched with `--silent`, i
 
 ## Table of Contents
 
-1. [Features](#features)  
-2. [Dependencies](#dependencies)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
+1. [Features](#features)
+2. [Screenshots](#screenshots)
+3. [Dependencies](#dependencies)  
+4. [Installation](#installation)  
+5. [Usage](#usage)  
    - [Standard GUI Mode](#standard-gui-mode)  
    - [Silent Tray Mode](#silent-tray-mode)  
-5. [Project Structure](#project-structure)  
-6. [Configuration & Saving](#configuration--saving)  
-7. [Known Limitations](#known-limitations)  
-8. [Future Improvements](#future-improvements)  
-9. [License](#license)
+6. [Project Structure](#project-structure)  
+7. [Configuration & Saving](#configuration--saving)  
+8. [Known Limitations](#known-limitations)  
+9. [Future Improvements](#future-improvements)  
+10. [License](#license)
 
 ---
 
@@ -54,6 +55,22 @@ When launched normally, it opens a Tkinter GUI. When launched with `--silent`, i
   - By default, outputs a text file named `<source_filename>_extracted_links.txt` in the same folder of the executable.  
   - If that file already exists, it automatically increments: `… (1).txt`, `… (2).txt`, etc.  
   - User can override location via a “Choose Save Location” dialog.
+
+---
+
+## Screenshots
+
+**Main Menu**  
+![Main Menu](<docs/screenshots/Main Menu.png>)
+
+**Dropping a Document File**  
+![Dropping a Doc File](<docs/screenshots/Dropping a doc file.png>)
+
+**Example Result**  
+![Example Result](<docs/screenshots/Example result.png>)
+
+**Highlighting Table Regions**  
+![Highlighting Table Regions](<docs/screenshots/Highlighting table regions.png>)
 
 ---
 
